@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-
+console.log('regwergewrg');
 var app = require('../app');
 var debug = require('debug')('Loc8r:server');
 var http = require('http');
